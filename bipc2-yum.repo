@@ -1,0 +1,6 @@
+[bipc2]
+name=BIPC2 REPO
+baseurl=http://bipc2.lab.esss.lu.se:8888/yum/$basearch/
+enabled=1
+gpgcheck=0
+
